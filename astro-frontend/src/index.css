@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  /* Define our "space" colors here */
+  --color-space-900: #0b0d17;
+  --color-space-800: #161b22;
+  --color-space-700: #30363d;
+
+  /* You can also add custom fonts or animations here if you want */
+}
