@@ -1,0 +1,14 @@
+# Data
+data/
+*.jsonl
+*.csv
+
+# Environments & Secrets
+.env
+.venv
+env/
+venv/
+__pycache__/
+
+# Colab / Jupyter
+.ipynb_checkpoints/
